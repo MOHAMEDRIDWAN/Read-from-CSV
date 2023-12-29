@@ -1,7 +1,7 @@
 # Read-from-CSV
 
 ## AIM:
-
+To write a python program for reading content from a CSV file
 ## ALGORITHM:
 ## Step 1:
 Import pandas as pd.
@@ -32,3 +32,5 @@ print("Number of columns:",len(df.axes[1]))
 <img width="790" alt="image" src="https://github.com/MOHAMEDRIDWAN/Read-from-CSV/assets/146993368/2b51f5b9-ba19-40d2-8e6d-ef24e014ebf5">
 
 ## RESULT:
+Thus the program is written to copy the contents from one file to another file
+
